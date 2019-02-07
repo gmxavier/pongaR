@@ -1,6 +1,6 @@
 ### R package "pongaR", provides an implementation of a framework to simulate the acoustic emission measurement chain for solid particle sizing.
 
-[![License](http://img.shields.io/:license-gpl3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
+[![License](http://img.shields.io/:license-gpl3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html) [![DOI](https://zenodo.org/badge/169558196.svg)](https://zenodo.org/badge/latestdoi/169558196)
 
 #### Citing this work:
 Xavier, G. M., Seixas, J. M., On the Simulation of the Acoustic Emission Measurement Chain for Solid Particle Sizing, submitted to Measurement, February 2019.
