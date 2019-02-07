@@ -17,12 +17,12 @@ to start using the library, simply load it into R environment:
 
 #### 1.0 Defining the source and the propagation medium
 
-    plate <- makePlate()
-    sphere <- makeSphere()
-    sourceData <- makeSource(sourceModel="hertz", 
+    plate<-makePlate()
+    sphere<-makeSphere()
+    sourceData<-makeSource(sourceModel="hertz", 
                              plate=plate, 
                              sphere=sphere)
-    mediumData <- makeMedium(plate=plate, 
+    mediumData<-makeMedium(plate=plate, 
                              excitabilityData="titaniumEF")
 
 #### 2.0 Obtaining the medium excitability function
