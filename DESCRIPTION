@@ -1,0 +1,20 @@
+Package: pongaR
+Type: Package
+Title: Acoustic Emission Measurement Chain Simulation for Solid Particle Sizing
+Version: 0.1.0
+Author: Gilberto M. Xavier
+Maintainer: Gilberto M. Xavier <gilberto.xavier@lps.ufrj.br>
+Description: Specify, build, simulate, and analyse acoustic emission measurement chains for solid particle sizing.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+    Bessel,
+    numDeriv, 
+    parallel,
+    pracma,
+    seewave,
+    signal,
+    tools,
+    tuneR
+RoxygenNote: 6.1.1
