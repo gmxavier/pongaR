@@ -25,7 +25,7 @@ to start using the library, simply load it into R environment:
     mediumData<-makeMedium(plate=plate, 
                              excitabilityData="titaniumEF")
 
-#### 2.0 Obtaining the medium excitability function
+#### 2.0 Obtaining the medium excitability data
 
     makeDD(phaseData="titanium.txt",
     density=4460,longVelocity=6060,tranVelocity=3230)
