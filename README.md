@@ -3,7 +3,7 @@
 [![License](http://img.shields.io/:license-gpl3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html) [![DOI](https://zenodo.org/badge/169558196.svg)](https://zenodo.org/badge/latestdoi/169558196)
 
 #### Citing this work:
-Xavier, G. M., Seixas, J. M., On the Simulation of the Acoustic Emission Measurement Chain for Solid Particle Sizing, submitted to Measurement, February 2019.
+Xavier, G. M., Seixas, J. M., On the Simulation of the Acoustic Emission Measurement Chain for Solid Particle Sizing, submitted to Applied Mathematical Modelling, August 2021.
 
 #### 0.0 Installation from latest sources
 
